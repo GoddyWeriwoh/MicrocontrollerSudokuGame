@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Project_2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LsSudoku.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ADT_LCD.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
